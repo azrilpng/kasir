@@ -1,0 +1,10 @@
+Kasir Gorengan Barokah
+
+Cara pakai:
+1. Ekstrak file zip ini.
+2. Buka index.html dengan browser (Chrome, Edge, Firefox, atau Safari).
+
+Catatan:
+- Data menu dan penjualan tersimpan di browser yang dipakai.
+- Gunakan satu perangkat dan satu browser yang sama agar data tidak terpisah.
+- Font membutuhkan internet saat pertama dibuka; tanpa internet tampilan memakai font bawaan.
